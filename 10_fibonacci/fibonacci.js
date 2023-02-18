@@ -11,7 +11,7 @@ const fibonacci = function(num) {
     return array[num-1];
 };
 
-console.log(fibonacci(5));
+console.log(fibonacci(0));
 
 // Do not edit below this line
 module.exports = fibonacci;
